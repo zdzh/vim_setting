@@ -2,7 +2,7 @@ cp ~/.vimrc ./.vimrc
 
 pwd
 
-cp -r ~/.vim/autoload ./vim/autoload
+cp -r ~/.vim/autoload .vim/autoload
 
 git add .
 
