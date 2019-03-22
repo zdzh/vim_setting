@@ -1,0 +1,10 @@
+cp ~/.vimrc ./.vimrc
+
+cp -r ~/.vim/autoload ./vim/autoload
+
+git add .
+
+git commit -m"update"
+
+git push origin
+
